@@ -1,4 +1,7 @@
 # fullstack
 
-此篇用来记录我学习Full Stack课程的过程  
-课程来源于[full stack-open](https://fullstackopen.com/)  
+This is used to record my study process of full stack development.  
+
+The course is from: [full stack-open](https://fullstackopen.com/)  
+
+2024.08.24 learn how to use git
